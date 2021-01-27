@@ -1,0 +1,50 @@
+h1 {
+    color: blueviolet;
+    background: red;
+}
+
+h2 {
+    color: rgb(00, 255, 00);
+    background: orange;
+}
+
+h3 {
+    color: #00f;
+    background: yellow ;
+}
+
+h4 {
+    color: rgba(255, 255, 0, 1);
+    background: green;
+}
+h5 {
+    color: rgb(255, 0, 255);
+    background: blue;
+}
+h6 {
+    color: rgb(0, 255, 255);
+    background: indigo;
+}
+p {
+    color: rgb(92, 250, 131);
+    background: violet;
+}
+
+li:nth-child(1){
+    color: hotpink;
+}
+
+li:nth-child(3){
+    background: peachpuff;
+}
+
+li:nth-child(1){
+border-style: solid;
+border-color: green;
+border-width: 5px;
+}
+li:nth-child(3){
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    }
